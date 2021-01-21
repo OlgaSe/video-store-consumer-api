@@ -13,6 +13,7 @@
     "express": "~4.17.1",
     "jade": "~1.11.0",
     "morgan": "~1.10.0",
+    "react-router-dom": "^5.2.0",
     "sequelize": "^6.3.5",
     "serve-favicon": "~2.5.0"
   },
